@@ -10,8 +10,8 @@
 ## 核酸&IgM抗体检测点
 |                               机构名称                              	|        网点地点        	|      价格(￡)     	|           出结果速度          	| 备注 |
 |:-------------------------------------------------------------------:	|:----------------------:	|:---------------:	|:-----------------------------:	|:-----: |
-| [Biograd](https://clientportal.powerdiary.com/clientportal/biograd) 	| Liverpool Science Park 	| 125 (核酸+抗体套餐) 	| IgM约30min；核酸次日13:00点前 	| |
-| [Doctap](https://doctap.co.uk/gp-appointment/#/) 	| London, 八个网点 	| 核酸134 抗体18 挂号费25-69不等| 核酸70小时(不推荐) 抗体10分钟	| 减10￡(随机有效): PHKWHCNI|
+| [Biograd](https://clientportal.powerdiary.com/clientportal/biograd) 	| Liverpool Science Park 	| 125 (核酸+抗体套餐) 	| 核酸次日13:00点前; 抗体约30min 	| |
+| [Doctap](https://doctap.co.uk/gp-appointment/#/) 	| London, 八个网点 	| 核酸134; 抗体18; 挂号费25-69不等| 核酸70h(不推荐); 抗体10min	| 减10￡(随机有效): PHKWHCNI|
 | NHS |  	| 	| 	 |官方不推荐用于旅游证明 |
 
 ## 各省市隔离政策汇总
