@@ -13,7 +13,7 @@
 | [Biograd](https://clientportal.powerdiary.com/clientportal/biograd) 	| Liverpool Science Park 	| 125 (核酸+抗体套餐) 	| 核酸次日13:00点前; 抗体约30min 	| |
 | [Windmill pharmacy](https://windmillpharmacy.co.uk/) 	| Manchester 	| 175 (核酸+抗体套餐) 	| 24h 	| |
 | [Doctap](https://doctap.co.uk/gp-appointment/#/) 	| London, 八个网点 	| 核酸134; 抗体18; 挂号费25-69不等| 核酸70h(不推荐); 抗体10min	| 减10￡(随机有效): PHKWHCNI|
-| NHS | 全英 	| 核酸免费| (九月以来)24h~72h+不等 |官方不推荐用于旅游证明;快速检测(非NER)可能不通过 |
+| NHS | 全英 	| 核酸免费| (九月以来)24h~72h+不等 |官方不推荐用于旅游证明;快速检测(非PCR)可能不通过 |
 | [Corona teat centre](https://www.coronatestcentre.com/products/covid-19-pcr-fit-to-fly-test-for-travel) | London, 四个网点 	| 核酸175; 抗体50| 左侧价格是两日套餐 | |
 | [王药师](https://optipharmpharmacy.co.uk/) | London, Nottingham	| 259(核酸+抗体套餐)| 两日 |专门面向华人 |
 
