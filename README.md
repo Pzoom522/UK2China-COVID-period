@@ -16,19 +16,10 @@
 | [Corona teat centre](https://www.coronatestcentre.com/products/covid-19-pcr-fit-to-fly-test-for-travel) | London, 四个网点 	| 核酸175; 抗体50| 左侧价格是两日套餐 | |
 | [王药师](https://optipharmpharmacy.co.uk/) | London, Nottingham	| 259(核酸+抗体套餐)| 两日 |专门面向华人 |
 
-#### 灰名单
+### 灰名单
 - NHS全系列目前都有被报告**使馆不通过**的案例
 - Leeds的Whitehall Clinic静脉采血，被报告**使馆不通过**
 
-## 各省市隔离政策汇总
-
-## 隔离酒店相关好/差评
-### 北京
-### 上海
-### 青岛
-### 广州
-### 香港
-### 台北
 
 ## 行李快递回国
 - 速递中国: "在爱丁堡算是最便宜的啦。服务也好。"
