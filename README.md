@@ -12,9 +12,10 @@
 |:-------------------------------------------------------------------:	|:----------------------:	|:---------------:	|:-----------------------------:	|:-----: |
 | [Biograd](https://clientportal.powerdiary.com/clientportal/biograd) 	| Liverpool Science Park 	| 125 (核酸+抗体套餐) 	| 核酸次日13:00点前; 抗体约30min 	| |
 | [Windmill pharmacy](https://windmillpharmacy.co.uk/) 	| Manchester 	| 175 (核酸+抗体套餐) 	| 24h 	| |
+| [Boots 48h](https://www.boots.com/health-pharmacy-advice/covid-19-testing/covid-19-testing-service) | 全英	| 120(仅核酸)| 48h | 下单后一定要牢记order id|
 | [Doctap](https://doctap.co.uk/gp-appointment/#/) 	| London, 八个网点 	| 核酸134; 抗体18; 挂号费25-69不等| 核酸70h(不推荐); 抗体10min	| 减10￡(随机有效): PHKWHCNI|
 | [Corona teat centre](https://www.coronatestcentre.com/products/covid-19-pcr-fit-to-fly-test-for-travel) | London, 四个网点 	| 核酸175; 抗体50| 左侧价格是两日套餐 | |
-| [王药师](https://optipharmpharmacy.co.uk/) | London, Nottingham	| 259(核酸+抗体套餐)| 两日 |专门面向华人 |
+| [王药师](https://optipharmpharmacy.co.uk/) | London, Nottingham	| 259(核酸+抗体套餐)| 48h |专门面向华人 |
 
 ### 灰名单
 - NHS全系列目前都有被报告**使馆不通过**的案例
