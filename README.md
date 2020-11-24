@@ -16,7 +16,6 @@
 | [Biograd](https://clientportal.powerdiary.com/clientportal/biograd) 	| Liverpool Science Park 	| 125 (核酸+抗体套餐) 	| 核酸次日13:00点前; 抗体约30min 	| |
 | [Windmill pharmacy](https://windmillpharmacy.co.uk/) 	| Manchester 	| 175 (核酸+抗体套餐) 	| 24h 	| |
 | [My healthcare clinic](https://myhealthcareclinic.com/medical/covid-19-testing/) 	| London 	| 核酸149, 抗体69 	| 48h 	| |
-| [Boots 48h](https://www.boots.com/health-pharmacy-advice/covid-19-testing/covid-19-testing-service) | 全英	| 120 (仅核酸)| 48h | 下单后一定要牢记order id|
 | [Doctap](https://doctap.co.uk/gp-appointment/#/) 	| London, 八个网点 	| 核酸134; 抗体18; 挂号费25-69不等| 核酸70h (不推荐); 抗体10min	| 减10￡ (随机有效): PHKWHCNI|
 | [Corona teat centre](https://www.coronatestcentre.com/products/covid-19-pcr-fit-to-fly-test-for-travel) | London, 四个网点 	| 核酸175; 抗体50| 左侧价格是两日套餐 | |
 | [Midland health](https://midlandhealth.co.uk/tests-and-diagnostics/covid-19/) | Birmingham; Leicester 	| 核酸185; 抗体125| 24h | |
@@ -28,6 +27,7 @@
 
 ### 灰名单
 - Leeds的Whitehall clinic静脉采血，部分倒霉蛋报告**使馆不通过**
+- Boots的报告"只有实验室地址但是没有药房地址", 有爱丁堡登机的报告**无法取得绿码**
 
 ## 隔离酒店
 > 温馨提示: 大巴开很久，提行李前上个厕所
