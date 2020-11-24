@@ -23,8 +23,10 @@
 | [王药师](https://optipharmpharmacy.co.uk/) | London, Nottingham	| 259 (核酸+抗体套餐)| 48h |专门面向华人; 折扣码PENNYSIS减10￡ |
 | [Sameday doctor](https://samedaydoctor.org/service/covid-19-coronovirus-antibody-testing/) | London	| 核酸250, 抗体180| 48h ||
 
+### 黑名单
+- NHS: 中国驻英国使领馆在健康码审核工作中，将[不再接受](http://www.chinese-embassy.org.uk/chn/lqfw/t1832347.htm)NHS检测报告
+
 ### 灰名单
-- NHS全系列目前都有被报告**使馆不通过**的案例
 - Leeds的Whitehall clinic静脉采血，部分倒霉蛋报告**使馆不通过**
 
 ## 隔离酒店
