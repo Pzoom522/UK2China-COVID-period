@@ -13,7 +13,6 @@
 ### 白名单(成功换绿码)
 |                               机构名称                              	|        网点地点        	|      价格(￡)     	|           出结果速度          	| 备注 |
 |:-------------------------------------------------------------------:	|:----------------------:	|:---------------:	|:-----------------------------:	|:-----: |
-| [Biograd](https://clientportal.powerdiary.com/clientportal/biograd) 	| Liverpool Science Park 	| 125 (核酸+抗体套餐) 	| 核酸次日13:00点前; 抗体约30min 	| [中国驻英国使领馆将自2020年12月4日至2021年1月3日暂停认可BioGrad诊所出具的核酸和抗体检测报告作为核酸码申请依据。](http://www.chinese-embassy.org.uk/chn/lsfw/lsxz/t1837751.htm?from=timeline)|
 | [Windmill pharmacy](https://windmillpharmacy.co.uk/) 	| Manchester 	| 175 (核酸+抗体套餐) 	| 24h 	| |
 | [My healthcare clinic](https://myhealthcareclinic.com/medical/covid-19-testing/) 	| London 	| 核酸149, 抗体69 	| 48h 	| |
 | [Doctap](https://doctap.co.uk/gp-appointment/#/) 	| London, 八个网点 	| 核酸134; 抗体18; 挂号费25-69不等| 核酸70h (不推荐); 抗体10min	| 减10￡ (随机有效): PHKWHCNI|
@@ -24,6 +23,7 @@
 
 ### 黑名单
 - NHS: 中国驻英国使领馆在健康码审核工作中，将[不再接受](http://www.chinese-embassy.org.uk/chn/lqfw/t1832347.htm)NHS检测报告
+- BioGrad: [中国驻英国使领馆将自2020年12月4日至2021年1月3日暂停认可BioGrad诊所出具的核酸和抗体检测报告作为核酸码申请依据。](http://www.chinese-embassy.org.uk/chn/lsfw/lsxz/t1837751.htm?from=timeline)
 
 ### 灰名单
 - Leeds的Whitehall clinic静脉采血，部分倒霉蛋报告**使馆不通过**
