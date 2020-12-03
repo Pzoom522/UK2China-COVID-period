@@ -16,7 +16,7 @@
 | [Windmill pharmacy](https://windmillpharmacy.co.uk/) 	| Manchester 	| 175 (核酸+抗体套餐) 	| 24h 	| |
 | [My healthcare clinic](https://myhealthcareclinic.com/medical/covid-19-testing/) 	| London 	| 核酸149, 抗体69 	| 48h 	| |
 | [Doctap](https://doctap.co.uk/gp-appointment/#/) 	| London, 八个网点 	| 核酸134; 抗体18; 挂号费25-69不等| 核酸70h (不推荐); 抗体10min	| 减10￡ (随机有效): PHKWHCNI|
-| [Corona teat centre](https://www.coronatestcentre.com/products/covid-19-pcr-fit-to-fly-test-for-travel) | London, 四个网点 	| 核酸175; 抗体50| 左侧价格是两日套餐 | |
+| [Corona test centre](https://www.coronatestcentre.com/products/covid-19-pcr-fit-to-fly-test-for-travel) | London, 四个网点 	| 核酸175; 抗体50| 左侧价格是两日套餐 | |
 | [Midland health](https://midlandhealth.co.uk/tests-and-diagnostics/covid-19/) | Birmingham; Leicester 	| 核酸185; 抗体125| 24h | |
 | [王药师](https://optipharmpharmacy.co.uk/) | London, Nottingham	| 319 (核酸+抗体套餐)| 48h |专门面向华人; 折扣码PENNYSIS减10￡ |
 | [Sameday doctor](https://samedaydoctor.org/service/covid-19-coronovirus-antibody-testing/) | London	| 核酸250, 抗体180| 48h ||
