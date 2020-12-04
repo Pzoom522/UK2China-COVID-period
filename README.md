@@ -13,7 +13,7 @@
 ### 白名单(成功换绿码)
 |                               机构名称                              	|        网点地点        	|      价格(￡)     	|           出结果速度          	| 备注 |
 |:-------------------------------------------------------------------:	|:----------------------:	|:---------------:	|:-----------------------------:	|:-----: |
-| [Windmill pharmacy](https://windmillpharmacy.co.uk/) 	| Manchester 	| 175 (核酸+抗体套餐) 	| 24h 	| |
+| [Windmill pharmacy](https://windmillpharmacy.co.uk/) 	| Manchester 	| 25 (目前只有抗体检测了) 	| 10min 	| |
 | [My healthcare clinic](https://myhealthcareclinic.com/medical/covid-19-testing/) 	| London 	| 核酸149, 抗体69 	| 48h 	| |
 | [Doctap](https://doctap.co.uk/gp-appointment/#/) 	| London, 八个网点 	| 核酸134; 抗体18; 挂号费25-69不等| 核酸70h (不推荐); 抗体10min	| 减10￡ (随机有效): PHKWHCNI|
 | [Corona test centre](https://www.coronatestcentre.com/products/covid-19-pcr-fit-to-fly-test-for-travel) | London, 四个网点 + Manchester	| 核酸175; 抗体50 (Manchester价格不同)| 左侧价格是两日套餐 | |
