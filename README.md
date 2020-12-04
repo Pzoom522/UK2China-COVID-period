@@ -23,8 +23,8 @@
 
 ### 黑名单
 - NHS: 中国驻英国使领馆在健康码审核工作中，将[不再接受](http://www.chinese-embassy.org.uk/chn/lqfw/t1832347.htm)NHS检测报告
-- BioGrad: [中国驻英国使领馆将自2020年12月4日至2021年1月3日暂停认可BioGrad诊所出具的核酸和抗体检测报告作为核酸码申请依据。](http://www.chinese-embassy.org.uk/chn/lsfw/lsxz/t1837751.htm?from=timeline)
-
+- BioGrad: 中国驻英国使领馆将自2020年12月4日至2021年1月3日[暂停认可](http://www.chinese-embassy.org.uk/chn/lsfw/lsxz/t1837751.htm)
+BioGrad诊所出具的核酸和抗体检测报告作为核酸码申请依据。
 ### 灰名单
 - Leeds的Whitehall clinic静脉采血，部分倒霉蛋报告**使馆不通过**
 - Boots的报告"只有实验室地址但是没有药房地址", 有爱丁堡登机的报告**无法取得绿码**
