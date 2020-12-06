@@ -13,9 +13,7 @@
 ### 白名单(成功换绿码)
 |                               机构名称                              	|        网点地点        	|      价格(￡)     	|           出结果速度          	| 备注 |
 |:-------------------------------------------------------------------:	|:----------------------:	|:---------------:	|:-----------------------------:	|:-----: |
-| [Windmill pharmacy](https://windmillpharmacy.co.uk/) 	| Manchester 	| 25 (目前只有抗体检测了) 	| 10min 	| |
 | [My healthcare clinic](https://myhealthcareclinic.com/medical/covid-19-testing/) 	| London 	| 核酸149, 抗体69 	| 48h 	| |
-| [Doctap](https://doctap.co.uk/gp-appointment/#/) 	| London, 八个网点 	| 核酸134; 抗体18; 挂号费25-69不等| 核酸70h (不推荐); 抗体10min	| 减10￡ (随机有效): PHKWHCNI|
 | [Corona test centre](https://www.coronatestcentre.com/products/covid-19-pcr-fit-to-fly-test-for-travel) | London, 四个网点 + Manchester	| 核酸175; 抗体50 (Manchester价格不同)| 左侧价格是两日套餐(也有24h内的) | |
 | [Midland health](https://midlandhealth.co.uk/tests-and-diagnostics/covid-19/) | Birmingham; Leicester 	| 核酸185; 抗体125| 24h | |
 | [王药师](https://optipharmpharmacy.co.uk/) | London, Nottingham	| 319 (核酸+抗体套餐)| 48h |专门面向华人; 折扣码PENNYSIS减10￡ |
@@ -28,6 +26,7 @@ BioGrad诊所出具的核酸和抗体检测报告作为核酸码申请依据。
 ### 灰名单
 - Leeds的Whitehall clinic静脉采血，部分倒霉蛋报告**使馆不通过** 
 - Boots的报告"只有实验室地址但是没有药房地址", 可能**无法取得绿码**(据说上传lab联系方式截图后，可以通过)
+- 不确保48h内在相同的机构拿到核酸+抗体（参见[大使馆最新通知](http://www.chinese-embassy.org.uk/chn/lsfw/lsxz/t1838196.htm)）：Windmill pharmacy, Doctap 
 
 ## 隔离酒店
 > 温馨提示: 大巴开很久，提行李前上个厕所
