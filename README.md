@@ -14,10 +14,12 @@
 |                               机构名称                              	|        网点地点        	|      价格(￡)     	|           出结果速度          	| 备注 |
 |:-------------------------------------------------------------------:	|:----------------------:	|:---------------:	|:-----------------------------:	|:-----: |
 | [My healthcare clinic](https://myhealthcareclinic.com/medical/covid-19-testing/) 	| London 	| 核酸149, 抗体69 	| 48h 	| |
-| [Corona test centre](https://www.coronatestcentre.com/products/covid-19-pcr-fit-to-fly-test-for-travel) | London, 四个网点 + Manchester	| 核酸175; 抗体50 (Manchester价格不同)| 左侧价格是两日套餐(也有24h内的) | |
+| [Corona test centre](https://www.coronatestcentre.com/products/covid-19-pcr-fit-to-fly-test-for-travel) | London, 四个网点 + Manchester	| 核酸175; 抗体50 (Manchester价格不同)| 左侧价格是两日套餐 (也有24h内的) | |
 | [Midland health](https://midlandhealth.co.uk/tests-and-diagnostics/covid-19/) | Birmingham; Leicester 	| 核酸185; 抗体125| 24h | |
 | [王药师](https://optipharmpharmacy.co.uk/) | London, Nottingham	| 319 (核酸+抗体套餐)| 48h |专门面向华人; 折扣码PENNYSIS减10￡ |
 | [Sameday doctor](https://samedaydoctor.org/service/covid-19-coronovirus-antibody-testing/) | London	| 核酸250, 抗体180| 48h ||
+| [Vitalis health](https://vitalishealth.co.uk/covid-pcr-test-for-travel-and-travel-certificate) | Belfast	| 290 (核酸+抗体套餐)| 24h ||
+
 
 ### 黑名单
 - NHS: 中国驻英国使领馆在健康码审核工作中，将[不再接受](http://www.chinese-embassy.org.uk/chn/lqfw/t1832347.htm)NHS检测报告
