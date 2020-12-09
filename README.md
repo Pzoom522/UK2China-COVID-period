@@ -27,7 +27,7 @@ BioGrad诊所出具的核酸和抗体检测报告作为核酸码申请依据。
 ### 灰名单
 - Leeds的Whitehall clinic静脉采血，部分倒霉蛋报告**使馆不通过** 
 - Boots的报告"只有实验室地址但是没有药房地址", 可能**无法取得绿码**(据说上传lab联系方式截图后，可以通过)
-- 不确保48h内在相同的机构拿到核酸+抗体（参见[大使馆最新通知](http://www.chinese-embassy.org.uk/chn/lsfw/lsxz/t1838196.htm)）：Windmill pharmacy 
+- 不确保48h内在相同的机构拿到核酸+抗体（参见[大使馆最新通知](http://www.chinese-embassy.org.uk/chn/lsfw/lsxz/t1838196.htm)）：Windmill pharmacy, London Medical Laboratory 
 
 ## 隔离酒店
 > 温馨提示: 大巴开很久，提行李前上个厕所
