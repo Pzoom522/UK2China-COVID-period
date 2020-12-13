@@ -19,6 +19,7 @@
 | [王药师](https://optipharmpharmacy.co.uk/) | London, Nottingham	| 319 (核酸+抗体套餐)| 48h |专门面向华人; 折扣码PENNYSIS减10￡ |
 | [Sameday doctor](https://samedaydoctor.org/service/covid-19-coronovirus-antibody-testing/) | London	| 核酸250, 抗体180| 48h ||
 | [Vitalis health](https://vitalishealth.co.uk/covid-pcr-test-for-travel-and-travel-certificate) | Belfast	| 290 (核酸+抗体套餐)| 24h ||
+| [COVID nudge](https://www.dnanudge.com/en/COVID-Nudge) | London	| 190 (核酸+抗体套餐)| 2h |可以救急用|
 
 
 ### 黑名单
