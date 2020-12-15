@@ -11,15 +11,17 @@
 > 特别注意：目前换绿码只接受PCR，其它各类rapid test请谨慎选择
 
 ### 白名单(成功换绿码)
+> :star: 健康码页面，大使馆“推荐”机构
+
 |                               机构名称                              	|        网点地点        	|      价格(￡)     	|           出结果速度          	| 备注 |
 |:-------------------------------------------------------------------:	|:----------------------:	|:---------------:	|:-----------------------------:	|:-----: |
 | [My healthcare clinic](https://myhealthcareclinic.com/medical/covid-19-testing/) 	| London 	| 核酸149, 抗体69 	| 48h 	| |
 | [Corona test centre](https://www.coronatestcentre.com/products/covid-19-pcr-fit-to-fly-test-for-travel) | London, 四个网点 + Manchester	| 核酸175; 抗体50 (Manchester价格不同)| 左侧价格是两日套餐 (也有24h内的) | |
-| [Midland health](https://midlandhealth.co.uk/tests-and-diagnostics/covid-19/) | Birmingham; Leicester 	| 核酸185; 抗体125| 24h | |
-| [王药师](https://optipharmpharmacy.co.uk/) | London, Nottingham	| 319 (核酸+抗体套餐)| 48h |专门面向华人; 折扣码PENNYSIS减10￡ |
+| [Midland health](https://midlandhealth.co.uk/tests-and-diagnostics/covid-19/) | Birmingham; Leicester 	| 核酸185; 抗体125| 24h | :star: |
+| [王药师](https://optipharmpharmacy.co.uk/) | London, Nottingham	| 319 (核酸+抗体套餐)| 48h |:star: 专门面向华人; 折扣码PENNYSIS减10￡ |
 | [Sameday doctor](https://samedaydoctor.org/service/covid-19-coronovirus-antibody-testing/) | London	| 核酸250, 抗体180| 48h ||
 | [Vitalis health](https://vitalishealth.co.uk/covid-pcr-test-for-travel-and-travel-certificate) | Belfast	| 290 (核酸+抗体套餐)| 24h ||
-| [COVID nudge](https://www.dnanudge.com/en/COVID-Nudge) | London	| 190 (核酸+抗体套餐)| 2h |可以救急用|
+| [DNA nudge](https://www.dnanudge.com/en/COVID-Nudge) | London	| 190 (核酸+抗体套餐)| 2h | :star:  |
 
 
 ### 黑名单
